@@ -1,9 +1,7 @@
 book_prices
 ===========
-
 Using BeautifulSoup to compare book prices listed at PacktPub and Amazon
 
-***********
 Basic steps:
 1. Start from "https://www.packtpub.com/all?search=&offset=&rows=48&sort=";
 2. Use "Next" to get all the next page links;
